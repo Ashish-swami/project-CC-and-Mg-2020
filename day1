@@ -1,0 +1,24 @@
+<html>
+<head>                  
+<title>          </title>
+</head>
+
+<body bgcolor=Peach Background="C:\Users\Student\Pictures\1.jpg"
+<h1>   hello </h1>
+<h2>      namaste </h2>
+<br>
+<p>  <h3>hey there i am ashish </h3> </p>      
+<hr color="black">
+<A href="https://google.co.in">click here</A>
+<br>
+<B> bold</B>
+<I>italian</I>
+<U>underline</U>
+<br>
+<img src=‪<"C:\Users\Student\Pictures\2.jpg">
+<br>
+<strike>  delete</strike>
+a<sub>1</sub>
+a<sup>2</sup>
+</body>
+</html>
